@@ -1,4 +1,4 @@
-# Landing Page da Escola de Jazz
+# IMC Calculator
 
 Este é um projeto de uma calculadora de IMC (Índice de Massa Corporal). O objetivo deste projeto foi desenvolver de uma calculadora funcional que calcula o IMC com base no peso e altura do usuário. Ela oferece uma interface simples e interativa, onde os usuários podem inserir seu peso e altura, e ao enviar os dados, o valor do IMC é calculado e exibido na tela.
 
