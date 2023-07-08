@@ -49,7 +49,7 @@ body, input, button, textarea{
     border-radius: .6rem;
 }
 
-.tilte{
+.title{
     font-size: 3.2rem;
     line-height: 4rem;
     color: var(--tt-heading);
@@ -150,6 +150,7 @@ form button:hover{
 
 .modal button:hover {
     transform: scale(1.2);
+    
 }
 
 .alert-error.open{
@@ -172,6 +173,6 @@ form button:hover{
     visibility: hidden;
     opacity: 0;
     transform: translateY(-30px);
-    transition: transform .5;
+    transition: transform .5s;
 }
 
