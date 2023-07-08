@@ -133,6 +133,7 @@ form button:hover{
 
 .modal{
     position: relative;
+    
 }
 
 .modal button{
@@ -175,4 +176,42 @@ form button:hover{
     transform: translateY(-30px);
     transition: transform .5s;
 }
+
+
+@media screen and (max-width: 300px) {
+    .card{
+        padding: 2.4rem;
+    }
+
+    .title{
+        font-size: 2.4rem;
+        line-height: 3.2rem;
+    }
+
+    form{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .card{
+        padding: 2.4rem;
+    }
+
+    .title{
+        font-size: 2.4rem;
+        line-height: 3.2rem;
+    }
+
+    form{
+        width: 100%;
+    }
+
+
+    .modal button{
+        top: 1rem;
+        right: 1rem;
+    }
+}
+
 
